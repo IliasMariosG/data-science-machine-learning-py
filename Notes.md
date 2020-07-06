@@ -13,12 +13,12 @@ Sections:
 
     as Conda documentation page states.
     
-    [Basic commands in terminal (zsh)]:
+    ### Basic commands in terminal (zsh):
     
-    ```conda info --envs``` or ```conda env list```
+    * ```conda info --envs``` or ```conda env list```
     
-    ```conda create --name <name-environment>``` e.g ```conda create --name test```
+    * ```conda create --name <name-environment>``` e.g ```conda create --name test```
     
-    ```conda activate <name-environment>```
+    * ```conda activate <name-environment>```
     
-    ```conda deactivate <name-environment>```
+    * ```conda deactivate <name-environment>```
