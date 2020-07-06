@@ -12,8 +12,13 @@ Sections:
     > is a free minimal installer for conda
 
     as Conda documentation page states.
-    Basic commands in terminal (zsh):
-    ```conda info --envs or conda env list
-    conda create --name <name-environment>``` e.g conda create --name test
-    ```conda activate <name-environment>
-    conda deactivate <name-environment>```
+    
+    [Basic commands in terminal (zsh)]:
+    
+    ```conda info --envs``` or ```conda env list```
+    
+    ```conda create --name <name-environment>``` e.g ```conda create --name test```
+    
+    ```conda activate <name-environment>```
+    
+    ```conda deactivate <name-environment>```
