@@ -23,6 +23,8 @@ Each number below indicates the respective Section from the Course Content:
     <br>* ```conda deactivate <name-environment>```</br>
     <br>* ```conda remove --name <name-environment> -all``` If you want to delete the environment you made
 
+    ### Running jupyter notebook on Chrome:
+    
     The course uses jupyter notebook as part of Anaconda. I worked around it with the use of terminal. I also knew that I wanted to open jupyter notebook on Chrome, since Chrome is the suggested browser for software development. Through my research I figured how to set the default browser to Chrome when opening jupyter:
 
     <br>* ```jupyter notebook --browser="chrome"```</br>
