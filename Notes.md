@@ -30,7 +30,7 @@ Each number below indicates the respective Section from the Course Content:
     <br>The config fie is located in your user directory and should look like:</br>
     <br> ```/Users/User/.jupyter```</br>
     <br>Go to the directory with the ```cd``` command and open the configuration file:</br>
-    <br>* ```code jupyter_notebook_config.py``` or ```open jupyter_notebook_config.py``` (*To add how to add ```code``` in the path on vscode*)</br>
+    <br> ```code jupyter_notebook_config.py``` or ```open jupyter_notebook_config.py``` (*To add how to add ```code``` in the path on vscode*)</br>
     <br>Once opened, search for:</br>
     <br> ```# c.NotebookApp.browser = ''```</br>
     <br>Uncomment the line and change it to:</br>
