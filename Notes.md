@@ -29,11 +29,11 @@ Each number below indicates the respective Section from the Course Content:
     <br>* ```jupyter notebook --generate-config``` It creates a configuration file</br>
     <br>The config fie is located in your user directory and should look like:</br>
     <br> ```/Users/User/.jupyter```</br>
-    <br>Go to the directory with the ```cd``` commande and open the configuration file:</br>
+    <br>Go to the directory with the ```cd``` command and open the configuration file:</br>
     <br>* ```code jupyter_notebook_config.py``` or ```open jupyter_notebook_config.py``` (*To add how to add ```code``` in the path on vscode*)</br>
     <br>Once opened, search for:</br>
     <br> ```# c.NotebookApp.browser = ''</br>
     <br> Uncomment the line and change it to:</br>
     <br> ```c.NotebookApp.browser = 'chrome'```</br>
     <br>Save the file. Now, when you start up Jupyter Notebook from the command line it will open with Chrome.<br>
-    <br>*source: [DevelopRx!] (http://developrx.com/rx-jupyter-notebook-select-browser/)</br>
+    <br>*source: [DevelopRx](http://developrx.com/rx-jupyter-notebook-select-browser/)*</br>
