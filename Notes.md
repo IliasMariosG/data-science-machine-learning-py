@@ -25,7 +25,7 @@ Each number below indicates the respective Section from the Course Content:
 
     The course uses jupyter notebook as part of Anaconda. I worked around it with the use of terminal. I also knew that I wanted to open jupyter notebook on Chrome, since Chrome is the suggested browser for software development. Through my research I figured how to set the default browser to Chrome when opening jupyter:
 
-<br>* ```jupyter notebook --browser="chrome"```</br>
-<br>* ```jupyter notebook --generate-config```</br> It creates a configuration file
-<br>Open the configuration file:</br>
-<br>* ```cat jupyter_notebook_config.py```</br>
+    <br>* ```jupyter notebook --browser="chrome"```</br>
+    <br>* ```jupyter notebook --generate-config``` It creates a configuration file</br>
+    <br>Open the configuration file:</br>
+    <br>* ```cat jupyter_notebook_config.py```</br>
