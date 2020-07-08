@@ -17,10 +17,15 @@ Each number below indicates the respective Section from the Course Content:
     
     ### Basic commands in terminal (I am using zsh):
     
-    * ```conda info --envs``` or ```conda env list```
-    
-    * ```conda create --name <name-environment>``` e.g ```conda create --name test```
-    
-    * ```conda activate <name-environment>```
-    
-    * ```conda deactivate <name-environment>```
+    <br>* ```conda info --envs``` or ```conda env list```</br> 
+    <br>* ```conda create --name <name-environment>``` e.g ```conda create --name test```</br> 
+    <br>* ```conda activate <name-environment>```</br> 
+    <br>* ```conda deactivate <name-environment>```</br>
+    <br>* ```conda remove --name <name-environment> -all``` If you want to delete the environment you made
+
+    The course uses jupyter notebook as part of Anaconda. I worked around it with the use of terminal. I also knew that I wanted to open jupyter notebook on Chrome, since Chrome is the suggested browser for software development. Through my research I figured how to set the default browser to Chrome when opening jupyter:
+
+<br>* ```jupyter notebook --browser="chrome"```</br>
+<br>* ```jupyter notebook --generate-config```</br> It creates a configuration file
+<br>Open the configuration file:</br>
+<br>* ```cat jupyter_notebook_config.py```</br>
