@@ -39,3 +39,4 @@ Each number below indicates the respective Section from the Course Content:
     <br> ```c.NotebookApp.browser = 'chrome'```</br>
     <br>Save the file. Now, when you start up Jupyter Notebook from the command line it will open with Chrome.<br>
     <br>*source: [DevelopRx](http://developrx.com/rx-jupyter-notebook-select-browser/)*</br>
+    
